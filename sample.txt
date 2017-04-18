@@ -4,3 +4,4 @@ add line
 test confliction
 branch test
 commit インデックスの状態を記録する
+pull リモートリポジトリの内容を取得する
