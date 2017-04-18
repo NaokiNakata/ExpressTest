@@ -3,3 +3,4 @@ add line
 競合テスト
 test confliction
 branch test
+commit インデックスの状態を記録する
