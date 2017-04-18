@@ -3,3 +3,4 @@ add line
 競合テスト
 test confliction
 branch test
+pull リモートリポジトリの内容を取得する
